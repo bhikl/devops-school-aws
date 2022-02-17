@@ -1,0 +1,6 @@
+db_username = "username"
+db_password = "12345678"
+db_name = "wp"
+wp_username = "admin"
+wp_password = "password"
+wp_email = "noreply@example.com"
